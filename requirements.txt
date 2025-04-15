@@ -1,0 +1,27 @@
+ pandas
+ pytest
+ 
+# pytest is a testing framework for Python that makes it easy to write unit tests, functional tests, and even end-to-end tests.
+
+# It's simple, powerful, and widely used in industry, including MLOps pipelines (like CI/CD).
+# # test_math.py
+
+# def add(x, y):
+#     return x + y
+
+# def test_add():
+#     assert add(2, 3) == 5
+#     assert add(0, 0) == 0
+#     assert add(-1, 1) == 0
+
+# pytest will look into repo with a folder 'tests' and then will test all cases
+
+# Why Pytest for MLOps?
+# ✅ Test data preprocessing functions
+
+# ✅ Test model outputs
+
+# ✅ Use in CI/CD pipelines (GitHub Actions, GitLab, etc.)
+
+# ✅ Clean and readable
+
